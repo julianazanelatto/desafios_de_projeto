@@ -16,7 +16,13 @@ A entrada será feita por um número inteiro, correpondente ao valor de entrada 
 Saída
 Retorne true, caso o número seja feliz, e retorne false, caso o número não seja feliz.
 
-Confira exemplo abaixo:
+Olhando com mais calma percebi que estava faltando dois ponto:
+- Atribuir o resultado parcial a variável que é avaliada (para números maiores)
+- Zerar o resultado_parcial. Assim, ele não influencia no próximo número a ser verificar (caso contrário, o número apenas cresce)
 
+
+Dica para os desafios de código: Faça seu código na IDE também. Assim você poderá debugar e entender todas as instruções do seu código.
+
+Confira o resultado abaixo:
 
 ![resultado_desafio](https://user-images.githubusercontent.com/81716096/207997798-c73e16da-ad69-494f-b27e-38190648a7dc.png)
