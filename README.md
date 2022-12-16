@@ -17,3 +17,6 @@ Saída
 Retorne true, caso o número seja feliz, e retorne false, caso o número não seja feliz.
 
 Confira exemplo abaixo:
+
+
+![resultado_desafio](https://user-images.githubusercontent.com/81716096/207997798-c73e16da-ad69-494f-b27e-38190648a7dc.png)
